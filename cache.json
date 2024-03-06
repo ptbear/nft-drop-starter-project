@@ -1,0 +1,42 @@
+{
+  "program": {
+    "candyMachine": "",
+    "candyGuard": "",
+    "candyMachineCreator": "",
+    "collectionMint": ""
+  },
+  "items": {
+    "-1": {
+      "name": "Numbers Collection",
+      "image_hash": "cbd1b05e497fcacfc9011a863adb10e00717cc3e3fd405a5cbc4b82f85ba58d5",
+      "image_link": "https://nftstorage.link/ipfs/bafybeiaiw7ohnangzdr6titdum6vdqmyo6f37lfnzhjwf36vrdjxpain4e/collection.png",
+      "metadata_hash": "78315e014d50212b79be1b35e0107bfcb1bbf808815b926e58b829c92a068787",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeifa5prnx42fkzy5ne6y2bj3zoke7vhikl6hfq4h5yvx5fayztyowe/collection.json",
+      "onChain": false
+    },
+    "0": {
+      "name": "A",
+      "image_hash": "7624a446e7280ae1f5af00d73229adbe2d35805f862a45aca0158bf93606c0f9",
+      "image_link": "https://nftstorage.link/ipfs/bafybeiaiw7ohnangzdr6titdum6vdqmyo6f37lfnzhjwf36vrdjxpain4e/0.png",
+      "metadata_hash": "49c8853b574f0fa081da8383374e718e7b0204dd6523b963fda46d2d5c17d636",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeifa5prnx42fkzy5ne6y2bj3zoke7vhikl6hfq4h5yvx5fayztyowe/0.json",
+      "onChain": false
+    },
+    "1": {
+      "name": "B",
+      "image_hash": "cbd1b05e497fcacfc9011a863adb10e00717cc3e3fd405a5cbc4b82f85ba58d5",
+      "image_link": "https://nftstorage.link/ipfs/bafybeiaiw7ohnangzdr6titdum6vdqmyo6f37lfnzhjwf36vrdjxpain4e/1.png",
+      "metadata_hash": "e8b3234edca8bf7e00fe2630d802f362b32d384e1df71ecf663bc807f4917130",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeifa5prnx42fkzy5ne6y2bj3zoke7vhikl6hfq4h5yvx5fayztyowe/1.json",
+      "onChain": false
+    },
+    "2": {
+      "name": "C",
+      "image_hash": "d02cf4978ea3d6f73135ff68859a9bc8787fda71e1eb23c7c009716244f3a654",
+      "image_link": "https://nftstorage.link/ipfs/bafybeiaiw7ohnangzdr6titdum6vdqmyo6f37lfnzhjwf36vrdjxpain4e/2.png",
+      "metadata_hash": "2a2bb651d71fe35345f56fe41d61e84df59bd3ab38bcab5afeba957a734021fe",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeifa5prnx42fkzy5ne6y2bj3zoke7vhikl6hfq4h5yvx5fayztyowe/2.json",
+      "onChain": false
+    }
+  }
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "path": "assets/2.json",
+    "error": "Symbol exceeds 10 chars."
+  },
+  {
+    "path": "assets/0.json",
+    "error": "Symbol exceeds 10 chars."
+  },
+  {
+    "path": "assets/1.json",
+    "error": "Symbol exceeds 10 chars."
+  }
+]
